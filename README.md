@@ -1,2 +1,2 @@
 # random-password-generator
-Password generator
+This generates strong passwords randomly which user can copy
